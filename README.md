@@ -8,6 +8,7 @@ Here are list of dependencies used for this project :
 - spring-boot-starter-web
 - spring-boot-starter-data-jpa
 - h2
+- spring-cloud-starter-netflix-eureka-client
 
 Used H2 in memory database for storing data, for project purpose. Access H2 database console using browser link -> http://<span></span>localhost:port_number/h2-console/ (replace with your application port number)
 
